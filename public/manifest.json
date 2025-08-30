@@ -1,0 +1,16 @@
+{
+    "name": "WhatsAble - WhatsApp Automation Perfected",
+    "short_name": "WhatsAble",
+    "description": "WhatsApp automation for teams and brands",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#3b82f6",
+    "icons": [
+        {
+            "src": "/favicon.ico",
+            "sizes": "any",
+            "type": "image/x-icon"
+        }
+    ]
+}
